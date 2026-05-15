@@ -1,0 +1,190 @@
+- generic [active] [ref=e1]:
+  - main [ref=e2]:
+    - generic [ref=e3]:
+      - complementary [ref=e4]:
+        - link "Frank Expert intelligence" [ref=e6] [cursor=pointer]:
+          - /url: /
+          - img [ref=e8]
+          - generic [ref=e11]:
+            - generic [ref=e12]: Frank
+            - generic [ref=e13]: Expert intelligence
+        - navigation [ref=e14]:
+          - link "Experts" [ref=e15] [cursor=pointer]:
+            - /url: /
+            - img
+            - text: Experts
+          - link "Search" [ref=e16] [cursor=pointer]:
+            - /url: /search
+            - img
+            - text: Search
+          - link "Enrichment" [ref=e17] [cursor=pointer]:
+            - /url: /experts/exp_001/enrich
+            - img
+            - text: Enrichment
+          - link "Demo target" [ref=e18] [cursor=pointer]:
+            - /url: /experts/exp_001
+            - img
+            - text: Demo target
+        - generic [ref=e20]:
+          - generic [ref=e21]:
+            - img [ref=e22]
+            - text: Demo status
+          - generic [ref=e25]: Running from local JSON with prepared source documents.
+      - generic [ref=e26]:
+        - generic [ref=e28]:
+          - generic [ref=e29]:
+            - generic [ref=e30]:
+              - generic [ref=e31]: Frank demo
+              - generic [ref=e32]:
+                - img
+                - text: Local demo
+            - heading "Expert intelligence workspace" [level=1] [ref=e33]
+          - generic [ref=e34]:
+            - button "Reset" [ref=e36]:
+              - img
+              - text: Reset
+            - link "Search" [ref=e37] [cursor=pointer]:
+              - /url: /search
+              - img
+              - text: Search
+        - generic [ref=e39]:
+          - generic [ref=e40]:
+            - generic [ref=e41]:
+              - generic [ref=e42]:
+                - img [ref=e43]
+                - text: Matter-ready expert database
+              - heading "Enrich a sparse Happenstance record into a defensible expert profile." [level=2] [ref=e47]
+              - paragraph [ref=e48]: "Frank keeps the demo focused on what matters to Daniel: source-backed fields, confidence signals, and search rationales that read like a senior associate did the diligence."
+            - generic [ref=e49]:
+              - generic [ref=e50]:
+                - generic [ref=e51]: Experts
+                - generic [ref=e52]: "5"
+              - generic [ref=e53]:
+                - generic [ref=e54]: Enriched
+                - generic [ref=e55]: "0"
+              - generic [ref=e56]:
+                - generic [ref=e57]: Packet
+                - generic [ref=e58]:
+                  - img [ref=e59]
+                  - text: Ready
+          - generic [ref=e62]:
+            - generic [ref=e63]:
+              - generic [ref=e64]:
+                - heading "Search population" [level=2] [ref=e65]
+                - paragraph [ref=e66]: One live enrichment target plus four comparison records.
+              - generic [ref=e67]:
+                - img [ref=e68]
+                - text: Provenance and confidence visible after enrichment
+            - generic [ref=e71]:
+              - generic [ref=e72]:
+                - generic [ref=e73]:
+                  - generic [ref=e75]: HT
+                  - generic [ref=e76]:
+                    - generic [ref=e77]: Hiroshi Tanaka
+                    - paragraph [ref=e78]: AI Strategy Advisor - Independent Consultant
+                  - generic [ref=e79]: Skeleton
+                - generic [ref=e80]:
+                  - generic [ref=e81]:
+                    - img [ref=e82]
+                    - generic [ref=e85]: Tokyo, Japan
+                  - generic [ref=e86]:
+                    - generic [ref=e87]: Industries
+                    - generic [ref=e88]: Not yet populated
+                  - generic [ref=e89]:
+                    - generic [ref=e90]: Relationship
+                    - generic [ref=e91]: Not yet populated
+                - generic [ref=e92]:
+                  - link "Detail" [ref=e93] [cursor=pointer]:
+                    - /url: /experts/exp_001
+                    - text: Detail
+                    - img
+                  - link "Enrich" [ref=e94] [cursor=pointer]:
+                    - /url: /experts/exp_001/enrich
+                    - img
+                    - text: Enrich
+              - generic [ref=e95]:
+                - generic [ref=e96]:
+                  - generic [ref=e98]: MK
+                  - generic [ref=e99]:
+                    - generic [ref=e100]: Maya Kapoor
+                    - paragraph [ref=e101]: Supply Chain Resilience Lead - Northstar Logistics
+                  - generic [ref=e102]: Skeleton
+                - generic [ref=e103]:
+                  - generic [ref=e104]:
+                    - img [ref=e105]
+                    - generic [ref=e108]: Singapore
+                  - generic [ref=e109]:
+                    - generic [ref=e110]: Industries
+                    - generic [ref=e111]: Logistics & Supply Chain, Transportation
+                  - generic [ref=e112]:
+                    - generic [ref=e113]: Relationship
+                    - generic [ref=e114]: Not yet populated
+                - link "Detail" [ref=e116] [cursor=pointer]:
+                  - /url: /experts/exp_002
+                  - text: Detail
+                  - img
+              - generic [ref=e117]:
+                - generic [ref=e118]:
+                  - generic [ref=e120]: ER
+                  - generic [ref=e121]:
+                    - generic [ref=e122]: Elena Rodriguez
+                    - paragraph [ref=e123]: Grid Modernization Consultant - IberGrid Advisory
+                  - generic [ref=e124]: Skeleton
+                - generic [ref=e125]:
+                  - generic [ref=e126]:
+                    - img [ref=e127]
+                    - generic [ref=e130]: Madrid, Spain
+                  - generic [ref=e131]:
+                    - generic [ref=e132]: Industries
+                    - generic [ref=e133]: Energy, Utilities
+                  - generic [ref=e134]:
+                    - generic [ref=e135]: Relationship
+                    - generic [ref=e136]: Pedram
+                - link "Detail" [ref=e138] [cursor=pointer]:
+                  - /url: /experts/exp_003
+                  - text: Detail
+                  - img
+              - generic [ref=e139]:
+                - generic [ref=e140]:
+                  - generic [ref=e142]: AC
+                  - generic [ref=e143]:
+                    - generic [ref=e144]: Avery Chen
+                    - paragraph [ref=e145]: Semiconductor Operations Executive - Silicon Bridge Partners
+                  - generic [ref=e146]: Skeleton
+                - generic [ref=e147]:
+                  - generic [ref=e148]:
+                    - img [ref=e149]
+                    - generic [ref=e152]: Austin, United States
+                  - generic [ref=e153]:
+                    - generic [ref=e154]: Industries
+                    - generic [ref=e155]: Semiconductors, Industrial Manufacturing
+                  - generic [ref=e156]:
+                    - generic [ref=e157]: Relationship
+                    - generic [ref=e158]: Daniel
+                - link "Detail" [ref=e160] [cursor=pointer]:
+                  - /url: /experts/exp_004
+                  - text: Detail
+                  - img
+              - generic [ref=e161]:
+                - generic [ref=e162]:
+                  - generic [ref=e164]: TW
+                  - generic [ref=e165]:
+                    - generic [ref=e166]: Thomas Weber
+                    - paragraph [ref=e167]: Healthcare AI Product Lead - MedAxis Labs
+                  - generic [ref=e168]: Skeleton
+                - generic [ref=e169]:
+                  - generic [ref=e170]:
+                    - img [ref=e171]
+                    - generic [ref=e174]: Berlin, Germany
+                  - generic [ref=e175]:
+                    - generic [ref=e176]: Industries
+                    - generic [ref=e177]: Healthcare & Pharma, Software & AI
+                  - generic [ref=e178]:
+                    - generic [ref=e179]: Relationship
+                    - generic [ref=e180]: Not yet populated
+                - link "Detail" [ref=e182] [cursor=pointer]:
+                  - /url: /experts/exp_005
+                  - text: Detail
+                  - img
+  - button "Open Next.js Dev Tools" [ref=e188] [cursor=pointer]:
+    - img [ref=e189]

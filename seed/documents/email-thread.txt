@@ -1,0 +1,9 @@
+From: Daniel <daniel@innovera.example>
+To: Pedram <pedram@innovera.example>
+Subject: Re: Tanaka debrief
+
+Hiroshi was excellent on the first call. He spoke clearly about why Japanese utilities are cautious about black-box optimization, and he gave the client a concrete map of where AI can help now: demand forecasting, outage triage, and advisory decision support rather than full autonomous dispatch.
+
+I would rate him 5 stars for this kind of expert briefing. He is best when the question combines AI strategy, energy operations, and Japanese market context. He also mentioned that he can work in both Japanese and English, with Japanese as his native language.
+
+Let's keep him warm for follow-up work if the energy diligence expands.

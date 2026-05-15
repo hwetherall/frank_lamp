@@ -1,0 +1,79 @@
+- generic [active] [ref=e1]:
+  - button "Open Next.js Dev Tools" [ref=e188] [cursor=pointer]:
+    - img [ref=e189]
+  - alert [ref=e192]
+  - main [ref=e193]:
+    - generic [ref=e194]:
+      - complementary [ref=e195]:
+        - link "Frank Expert intelligence" [ref=e197] [cursor=pointer]:
+          - /url: /
+          - img [ref=e199]
+          - generic [ref=e202]:
+            - generic [ref=e203]: Frank
+            - generic [ref=e204]: Expert intelligence
+        - navigation [ref=e205]:
+          - link "Experts" [ref=e206] [cursor=pointer]:
+            - /url: /
+            - img
+            - text: Experts
+          - link "Search" [ref=e207] [cursor=pointer]:
+            - /url: /search
+            - img
+            - text: Search
+          - link "Enrichment" [ref=e208] [cursor=pointer]:
+            - /url: /experts/exp_001/enrich
+            - img
+            - text: Enrichment
+          - link "Demo target" [ref=e209] [cursor=pointer]:
+            - /url: /experts/exp_001
+            - img
+            - text: Demo target
+        - generic [ref=e211]:
+          - generic [ref=e212]:
+            - img [ref=e213]
+            - text: Demo status
+          - generic [ref=e216]: Running from local JSON with prepared source documents.
+      - generic [ref=e217]:
+        - generic [ref=e220]:
+          - generic [ref=e221]:
+            - generic [ref=e222]: Prepared demo
+            - generic [ref=e223]:
+              - img
+              - text: Local demo
+          - heading "Enrichment pipeline" [level=1] [ref=e224]
+        - generic [ref=e226]:
+          - link "Experts" [ref=e227] [cursor=pointer]:
+            - /url: /
+            - img
+            - text: Experts
+          - generic [ref=e228]:
+            - generic [ref=e229]:
+              - img [ref=e230]
+              - text: Offline-ready demo flow
+            - heading "Enrich Hiroshi Tanaka" [level=1] [ref=e233]
+            - paragraph [ref=e234]: The demo packet is preloaded, so this screen can run without file hunting or an Insforge connection. If Anthropic is not configured, Frank uses a deterministic demo enrichment.
+          - generic [ref=e235]:
+            - generic [ref=e236]:
+              - generic [ref=e237]:
+                - generic [ref=e238]:
+                  - generic [ref=e239]:
+                    - img [ref=e240]
+                    - text: Prepared demo packet
+                  - paragraph [ref=e243]: The four source documents are already loaded for the live demo.
+                - button "Swap files" [ref=e244]
+              - generic [ref=e245]:
+                - generic [ref=e246]:
+                  - img [ref=e247]
+                  - generic [ref=e250]: contract.txt
+                - generic [ref=e251]:
+                  - img [ref=e252]
+                  - generic [ref=e255]: brief.txt
+                - generic [ref=e256]:
+                  - img [ref=e257]
+                  - generic [ref=e260]: email-thread.txt
+                - generic [ref=e261]:
+                  - img [ref=e262]
+                  - generic [ref=e265]: voice-transcript.txt
+            - button "Run prepared enrichment" [ref=e266]:
+              - img
+              - text: Run prepared enrichment

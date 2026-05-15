@@ -1,0 +1,5 @@
+Voice memo transcript, Daniel
+
+Hiroshi Tanaka is one of the more useful AI and energy experts we have spoken with. He has a very practical view of what machine learning can and cannot do in utility environments, especially in Japan. He is not just a generic AI person; he understands dispatch centers, grid operators, vendor constraints, and the organizational reasons models fail to get adopted.
+
+He is native in Japanese and fluent enough in English for client work. He is available if we give him roughly two weeks notice. The main caveat is conflicts around TEPCO, Mitsubishi Heavy Industries, and anything that looks like a live procurement process in Japan.

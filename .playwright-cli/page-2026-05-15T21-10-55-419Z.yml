@@ -1,0 +1,64 @@
+- generic [active] [ref=e1]:
+  - button "Open Next.js Dev Tools" [ref=e188] [cursor=pointer]:
+    - img [ref=e189]
+  - alert [ref=e192]
+  - main [ref=e267]:
+    - generic [ref=e268]:
+      - complementary [ref=e269]:
+        - link "Frank Expert intelligence" [ref=e271] [cursor=pointer]:
+          - /url: /
+          - img [ref=e273]
+          - generic [ref=e276]:
+            - generic [ref=e277]: Frank
+            - generic [ref=e278]: Expert intelligence
+        - navigation [ref=e279]:
+          - link "Experts" [ref=e280] [cursor=pointer]:
+            - /url: /
+            - img
+            - text: Experts
+          - link "Search" [ref=e281] [cursor=pointer]:
+            - /url: /search
+            - img
+            - text: Search
+          - link "Enrichment" [ref=e282] [cursor=pointer]:
+            - /url: /experts/exp_001/enrich
+            - img
+            - text: Enrichment
+          - link "Demo target" [ref=e283] [cursor=pointer]:
+            - /url: /experts/exp_001
+            - img
+            - text: Demo target
+        - generic [ref=e285]:
+          - generic [ref=e286]:
+            - img [ref=e287]
+            - text: Demo status
+          - generic [ref=e290]: Running from local JSON with prepared source documents.
+      - generic [ref=e291]:
+        - generic [ref=e294]:
+          - generic [ref=e295]:
+            - generic [ref=e296]: Search layer
+            - generic [ref=e297]:
+              - img
+              - text: Local demo
+          - heading "Semantic expert search" [level=1] [ref=e298]
+        - generic [ref=e300]:
+          - link "Experts" [ref=e301] [cursor=pointer]:
+            - /url: /
+            - img
+            - text: Experts
+          - generic [ref=e302]:
+            - generic [ref=e303]:
+              - img [ref=e304]
+              - text: One-shot semantic ranking
+            - heading "Semantic expert search" [level=1] [ref=e307]
+            - paragraph [ref=e308]: Ranked results use every field in the five-record demo population. Without an Anthropic key, Frank runs a deterministic offline search tuned for the prepared demo.
+          - generic [ref=e310]:
+            - generic [ref=e311]:
+              - textbox [ref=e312]: AI experts with knowledge of the Energy Industry and can speak Japanese
+              - button "Search" [ref=e313]:
+                - img
+                - text: Search
+            - generic [ref=e314]:
+              - button "AI experts with knowledge of the Energy Industry and can speak Japanese" [ref=e315]
+              - button "Someone who could brief us on supply chain resilience in East Asia" [ref=e316]
+              - button "Experts Daniel owns who are rated 4+ stars" [ref=e317]

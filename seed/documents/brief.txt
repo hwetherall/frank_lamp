@@ -1,0 +1,11 @@
+Project Brief: AI in Energy Operations
+
+Hiroshi Tanaka was identified as a strong fit for an Innovera diligence stream on applying machine learning to power demand forecasting, distributed energy resource coordination, and generation dispatch optimization.
+
+Relevant background:
+- Former AI strategy advisor to Japanese utility and industrial clients.
+- Practical experience translating AI model output into operator-facing decisions.
+- Comfortable discussing regulatory and operational constraints in Japan's power sector.
+- Strong fit for questions about energy systems, software deployment, and AI governance.
+
+The preferred demo query is: AI experts with knowledge of the Energy Industry and can speak Japanese.
